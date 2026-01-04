@@ -1,4 +1,4 @@
- https://github.com/user-attachments/assets/eda0c409-e404-409d-bdd1-2a8c4bc34e26
+A demo video - https://github.com/user-attachments/assets/eda0c409-e404-409d-bdd1-2a8c4bc34e26
 ![](BHP_website.PNG)
 This data science project series walks through step by step process of how to build a real estate price prediction website. We will first build a model using sklearn and linear regr
 
